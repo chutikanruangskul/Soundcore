@@ -5,7 +5,7 @@ An e-commerce promotional key visual (KV) designed for **Soundcore Space One Pro
 ---
 
 ## 📌 Project Overview
-* **Role:** Marketing Graphic Designer / Visual Designer
+* **Role:** Marketing Graphic Designer 
 * **Target Audience:** Tech enthusiasts, audiophiles, and everyday music lovers looking for premium noise-canceling headphones.
 * **Objective:** Create an eye-catching advertisement banner optimized for e-commerce platforms and social media campaigns to drive customer engagement and sales.
 
@@ -20,7 +20,7 @@ An e-commerce promotional key visual (KV) designed for **Soundcore Space One Pro
 ---
 
 ## 🛠 Tools & Skills Used
-* **Tools Used:** Canva Pro (Graphic & Banner Design)
+* **Tools Used:** Canva (Graphic & Banner Design)
 * **Design Skills:** Visual Hierarchy, Layout & Composition, Color Theory, E-commerce Marketing Design, Branding & Key Visual Creation
 
 ---
